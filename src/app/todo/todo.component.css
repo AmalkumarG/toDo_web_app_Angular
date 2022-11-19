@@ -1,0 +1,9 @@
+.style1{
+    visibility: hidden;
+}
+.setgreen:hover{
+    box-shadow: 5px 10px rgb(9, 120, 38);
+}
+.setred:hover{
+    box-shadow: 5px 10px rgb(192, 20, 20);
+}
